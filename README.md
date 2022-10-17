@@ -4,10 +4,6 @@
 
 Clonar el repositorio y en la terminal correr los siguientes commandos
 
-### 'npm i'
-
-y luego
-
-### `npm start`
+### `npm i` y luego ### `npm start`
 
 luego el proyecto estara corriendo en localhost:3000
